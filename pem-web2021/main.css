@@ -107,7 +107,7 @@ body{
 
 .footer h3{
     font-family: serif;
-    opacity: 50%;
+    /* opacity: 50%; */
     color: whitesmoke;
     font-size: 20px;
     text-align: center;
